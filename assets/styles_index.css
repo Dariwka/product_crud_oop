@@ -1,0 +1,23 @@
+.box {
+  display: inline-block;
+}
+
+.checkbox {
+  background-color: lightgrey;
+  width: 400px;
+  padding: 25px;
+  margin: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.delete-checkbox {
+  width: 20px;
+  height: 20px;
+}
+
+.box_body {
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
